@@ -3,7 +3,7 @@
 # Developed By:
 
 Darshan Kathiriya
-Swetha Subhash
+Shwetha Subash
 Vikas Salvi
 Yashesh Savani
 
